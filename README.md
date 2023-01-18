@@ -2,7 +2,7 @@
 
 Welcome to my GitHub repository! I am a frontend web developer with skills in HTML, CSS, JavaScript, Bootstrap, and React.js.
 
-I am currently working on a React.js projects\ and this repository will be updated with the progress of my work and with examples of my skills.
+I am currently working on a React.js project and this repository will be updated with the progress of my work and with examples of my skills.
 
 ## Skills 💻
 - **HTML, CSS and JavaScript**: I have a strong understanding of web technologies, including HTML, CSS, and JavaScript.
